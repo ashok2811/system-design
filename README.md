@@ -6,4 +6,5 @@ This repo is dedicated to system design stuff
 ### LLD
 ---
 ### Resources
+   - https://github.com/donnemartin/system-design-primer
 ---
