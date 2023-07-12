@@ -5,3 +5,5 @@ This repo is dedicated to system design stuff
 ---
 ### LLD
 ---
+### Resources
+---
