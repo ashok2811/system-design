@@ -16,5 +16,6 @@
 
 - https://github.com/donnemartin/system-design-primer
 - https://betterprogramming.pub/4-rate-limit-algorithms-every-developer-should-know-7472cb482f48
+- https://interviewready.io/blog/interviewready-20-system-design
 
 ---
